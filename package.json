@@ -1,0 +1,21 @@
+{
+  "name": "mgpreston_resume",
+  "version": "1.0.0",
+  "description": "Resume for Mark Preston",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "bin": {
+    "mgpreston_resume": "./index.js"
+  },
+  "keywords": [
+    "resume"
+  ],
+  "author": "Mark Preston",
+  "license": "ISC",
+  "dependencies": {
+    "chalk": "^3.0.0",
+    "inquirer": "^7.0.1"
+  }
+}

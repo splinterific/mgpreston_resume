@@ -1,0 +1,17 @@
+{
+	"Education": [
+		"Diploma in Software Development in Dublin Business School - 2016:2018",
+		"Batchelor of Engineering Maintenance Technology in DIT - 2002:2005"
+	],
+	"Work Experience": [
+		"DHL Various roles including eCommerce Customer Support and Ecommerce Application Owner - 2006:2015",
+		"New Relic - 3rd level Business Support Engineer and 2nd Level Technical Support",
+		{
+			"Slack": "test"
+		}
+	],
+	"Contact": [
+		"resume@mgpreston.com",
+		"00353876330398"
+	]
+}
